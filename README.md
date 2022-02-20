@@ -15,7 +15,7 @@ El cliente solicita un caudal de *15 - 20 [L/s]* para su uso, el agua se va a tr
 ```math
 ρ = 998 [kg/m³]
 
-μ = 0.001005 [pa\times S]
+μ = 0.001005 [pa x S]
 ```
 
 
