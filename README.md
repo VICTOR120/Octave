@@ -10,7 +10,7 @@ The exercise is based on an example from [YouTube](https://youtu.be/cPDH_eQTnS0)
 
 ***Aplicación en cálculo de diámetro de tubería***
 
-El cliente solicita un caudal de *15 - 20 [L/s]* para su uso, el agua se va a transportar desde una embalse a una altura de *z_1* de  *50 [m]* por un tubería con una longitud total de *84 [m]* y una rugosidad de *0.0015 [mm]* hasta un lugar con una altura *z_2* de *1.5 [m]*. Las características del agua son: 
+El cliente solicita un caudal de *15 - 20 [L/s]* para su uso, el agua se va a transportar desde una embalse a una altura de *z_1* de  *50 [m]* por un tubería con una longitud total de *84 [m]* y una rugosidad de *0.0015 [mm]* hasta un lugar con una altura *z_2* de *1.5 [m]*. Las características del agua a 25 °C son: 
 
 ```math
 ρ = 998 [kg/m³]
